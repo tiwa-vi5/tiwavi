@@ -1,1 +1,2 @@
-print('Hello World')
+var=""Vipin
+print('Hello World {var}')
